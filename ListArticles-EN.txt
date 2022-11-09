@@ -1,0 +1,4 @@
+Lamp
+Shoe
+Car
+Cap

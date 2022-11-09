@@ -2,3 +2,4 @@ Lampe
 Chaussure
 Voiture
 Casquette
+Bureau

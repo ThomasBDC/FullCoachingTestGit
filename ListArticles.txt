@@ -1,5 +1,5 @@
-Lampe
-Chaussure
-Voiture
-Casquette
-Bureau
+Lampes
+Chaussures
+Voitures
+Casquettes
+Bureaux

@@ -1,4 +1,4 @@
-Lamp
-Shoe
-Car
-Cap
+Lamps
+Shoes
+Cars
+Caps

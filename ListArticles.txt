@@ -1,4 +1,4 @@
-Lampe
-Chaussure
-Voiture
-Casquette
+Lampes
+Chaussures
+Voitures
+Casquettes
